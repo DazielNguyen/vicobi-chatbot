@@ -1,4 +1,2 @@
-fastapi
-uvicorn
-groq
-python-dotenv
+streamlit
+boto3
